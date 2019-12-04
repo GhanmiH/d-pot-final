@@ -1,0 +1,46 @@
+package fr.hghanmi;
+
+public class Affichage {
+	public static final String EXCEPTION = "Exception: ";
+	public static final String COMBI_TROUVEE = "La combinaison a été trouvée !";
+	public static final String VEUILLEZ_RESSAISIR_VOTRE_INDICE = "Veuillez ressaisir votre indice!!";
+	public static final String SAISISSEZ_DES_INDICES_SELON_LA_COMBINAISON_PROPOSEE = "Saisissez des indices selon la combinaison proposée";
+	public static final String VEUILLEZ_RESSAISIR_UNE_COMBINAISON_VALIDE_DE = "Veuillez ressaisir une combinaison valide  de ";
+	public static final String GENEREZ_UNE_PROPOSITION = "\n Générez une proposition de ";
+	public static final String CHIFFRES2 = " chiffres!!";
+	public static final String VEUILLEZ_RESSAISIR_UNE_COMBINAISON_SECRÈTE_VALIDE = "Veuillez ressaisir une combinaison secrète valide  de ";
+	public static final String VEUILLEZ_SAISIR_QUE_DES_CHIFFRES = "Veuillez saisir que des chiffres!!";
+	public static final String CHIFFRES = " chiffres";
+	public static final String COMB_AL = " Générez une combinaison secrète de ";
+	public static final String LA_COMBINAISON_SECRETE_DE_L_IA_EST = "La combinaison secrète de l'IA est :";
+	public static final String LA_PROPOSITION_DE_L_IA_EST = "\n La proposition de l'IA est: ";
+	public static final String DOMMAGE_VOUS_AVEZ_PERDU = "\n Dommage, Vous avez perdu";
+	public static final String BRAVO_VOUS_AVEZ_GAGNE = "\n Bravo, vous avez gagné";
+	public static final String ESSAIS_MAXIMUM1 = " essais maximum! ";
+	public static final String A_VOUS_DE_JOUER_BONNE_CHANCE1 = "A vous de jouer! Bonne chance !";
+	public static final String CHIFFRES_QUE_VOUS_DEVEZ_LA_DEVINER_EN = " chiffres que vous devez la deviner en ";
+	public static final String REGLE2 = "l'intelligence artificielle de l'ordinateur va générer une combinaison secréte de";
+	public static final String REGLES = "Bienvenue dans ce mode!!! Voici l'énoncé des régles:";
+	public static final String MODE_CHALLENGER = "Vous avez choisi le mode CHALLENGER";
+	public static final String A_VOUS_DE_JOUER_BONNE_CHANCE = "A vous de jouer! Bonne chance !";
+	public static final String ESSAIS_MAXIMUM = " essais maximum! ";
+	public static final String REGLE4 = " chiffres que l'intelligence artificielle de l'ordinateur doit la deviner en ";
+	public static final String REGLE3 = "Vous devez définir  une combinaison  de";
+	public static final String BIENVENUE = "Bienvenue dans ce mode!!! Voici l'énoncé des régles:";
+	public static final String MODE_DEFENSEUR = "Vous avez choisi le mode DEFENSEUR";
+	public static final String BONNE_CHANCE = "C'est à vous de commencer!! Bonne chance!! ";
+	public static final String REGLE5 = "Le premier à trouver la combinaison secréte de l'autre gagnera";
+	public static final String JEU = "Vous allez jouer tour à tour avec l'intelligence artificielle de l'ordinateur";
+	public static final String BIENVENUE_MD = "Bienvenue dans ce mode!!! Voici l'énoncé des régles:";
+	public static final String MODE_DUEL = "Vous avez choisi le mode DUEL";
+	public static final String A_BIENTOT = "A bientôt";
+	public static final String REESSAYEZ = "Réessayez de nouveau";
+	public static final String ERREUR = "Je n'ai pas compris votre choix";
+	public static final String QUITTER = "4- Quitter";
+	public static final String MODE_DUEL2 = "3- Mode duel";
+	public static final String MODE_CHALLENGER2 = "2- Mode challenger";
+	public static final String MODE_DEFENSEUR2 = "1- Mode défenseur";
+	public static final String CHOIX = "Veuillez entrer le numéro correspendant à votre choix: ";
+	public static final String BIENVENUE2 = "¦ Bienvenue dans EscapeGame Online ¦";
+	public static final String INDICE = "indice:";
+}
