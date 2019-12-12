@@ -1,0 +1,14 @@
+2019-12-12 14:09:26 INFO  Main:19 - ¦ Bienvenue dans EscapeGame Online ¦
+2019-12-12 14:09:26 INFO  Main:35 - Veuillez entrer le numéro correspendant à votre choix: 
+2019-12-12 14:09:26 INFO  Main:36 - 1- Mode défenseur
+2019-12-12 14:09:26 INFO  Main:37 - 2- Mode challenger
+2019-12-12 14:09:26 INFO  Main:38 - 3- Mode duel
+2019-12-12 14:09:26 INFO  Main:39 - 4- Quitter
+2019-12-12 14:09:28 INFO  ModeAttaquant:24 - A vous de jouer! Bonne chance !
+2019-12-12 14:09:28 INFO  ModeAttaquant:25 - Vous avez choisi le mode CHALLENGER
+2019-12-12 14:09:28 INFO  ModeAttaquant:26 - Bienvenue dans ce mode!!! Voici l'énoncé des régles:
+2019-12-12 14:09:28 INFO  ModeAttaquant:27 - l'intelligence artificielle de l'ordinateur va générer une combinaison secréte de
+2019-12-12 14:09:28 INFO  ModeAttaquant:28 - 4 chiffres que vous devez la deviner en 5 essais maximum! 
+2019-12-12 14:09:28 INFO  ModeAttaquant:30 - A vous de jouer! Bonne chance !
+2019-12-12 14:09:28 INFO  JoueurHumain:54 - 
+ Générez une proposition de 4 chiffres

@@ -77,8 +77,8 @@ public class JoueurOrdinateur extends Joueurs {
 		combinaisonSecrete = String.format("%0" + EscapeGameConfig.getLongueur() + "d", propo);
 
 		if (EscapeGameConfig.isModeDeveloppeur()) {
-			//System.out.println(Affichage.LA_COMBINAISON_SECRETE_DE_L_IA_EST + combinaisonSecrete);
-			//logger.info(Affichage.LA_COMBINAISON_SECRETE_DE_L_IA_EST + combinaisonSecrete);
+			System.out.println(Affichage.LA_COMBINAISON_SECRETE_DE_L_IA_EST + combinaisonSecrete);
+			logger.info(Affichage.LA_COMBINAISON_SECRETE_DE_L_IA_EST + combinaisonSecrete);
 		}
 		return combinaisonSecrete;
 	}
@@ -88,6 +88,8 @@ public class JoueurOrdinateur extends Joueurs {
 
 		logger.info(Affichage.DOMMAGE_VOUS_AVEZ_PERDU);
 		System.out.println(Affichage.DOMMAGE_VOUS_AVEZ_PERDU);
+		System.out.println(Affichage.LA_COMBINAISON_SECRETE_DE_L_IA_EST + combinaisonSecrete);
+		logger.info(Affichage.LA_COMBINAISON_SECRETE_DE_L_IA_EST + combinaisonSecrete);
 	}
 
 	@Override
