@@ -5,7 +5,7 @@ Il s’agit d’un jeu numérique basé sur le concept des Escape Games.
 Installation:
 
 Pour installer le jeu commencer par : 
-	 1. Allez sur le repository voici le lien github https://github.com/GhanmiH/version-fianale.
+	 1. Allez sur le repository voici le lien github https://github.com/GhanmiH/d-pot-final.git.
 	 2. Clickez sur le bouton " clone or download" pour avoir votre dépôt local du projet.
 	 3. Importer le projet sur un IDE : Eclipse 
 	 4. Dans le package "config" vous trouvez le fichier " config.properties" 
